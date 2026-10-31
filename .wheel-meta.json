@@ -1,0 +1,22 @@
+{
+  "wheel_id": 577,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractorsnearme-153",
+  "project": "retaining-wall-contractors-usa-181cf1cbf0aea6509209148fb7239262",
+  "parent_t1_ref": "retainingwallcontractorsnearme-008",
+  "node_role": "buffer",
+  "money_target": "retainingwallcontractorsnearme.com",
+  "primary_kw": "retaining wall contractors usa",
+  "intended_url": "https://sitesau.github.io/retainingwallcontractorsnearme-153/",
+  "tier": "T2",
+  "writeback_nonce": "1744b08384f1de0c",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallcontractorsnearme-008/retaining-wall-contractors-usa.html",
+      "anchor": "Retaining Wall Contractors Usa: A Practical Hiring Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
